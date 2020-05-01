@@ -1,8 +1,8 @@
 ## Touchless Alcohol Dispenser To Fight Covid-19
 
-[![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa1.png)](#)
+[![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa1.jpg)](#)
 
-[![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa2.png)](#)
+[![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa2.jpg)](#)
 
 Its been 45 days since lockdown in most countries in the world because of Covid-19 former name nCov, nowadays the new norm is that eveybody is bringing their own alcohol sanitizers and wearing mask when outside. You can see in every apartments/condominium lobbies, grocery stores and offices are having alchol based sanitizers right before you enter the primises that you need to pump it using your hands and some people they dont bother using it because of fear that the last person who used it might be infected. So ive come up with the touchless alcohol dispenser that uses ultrasonic sensor that triggers water pump to flow the  
 
@@ -24,8 +24,8 @@ This touchless alcohol dispenser is based on arduino and using ultrasonic sensor
 1. Download repo - https://github.com/fusionx1/touchless-alcohol-dispenser-in-fighting-covid19
 
     ```
-    git clone git@github.com:pantheon-systems/distributed-locust-kube.git
+    git clone https://github.com/fusionx1/touchless-alcohol-dispenser-in-fighting-covid19.git
     ```
 
-   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa2.png)](#)
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/schematics.png)](#)
    
