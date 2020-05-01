@@ -1,0 +1,58 @@
+#define trigger 9
+#define echo 8
+#define LED 13
+#define MOSFET 12
+ 
+// Variables will change:
+int ledState = LOW;
+int ledPin = 13;
+ 
+float time=0,distance=0;
+ 
+void setup()
+{
+ Serial.begin(9600);
+ pinMode(ledPin, OUTPUT);
+ pinMode(trigger,OUTPUT);
+ pinMode(echo,INPUT);
+ pinMode(LED,OUTPUT);
+ pinMode(MOSFET,OUTPUT);
+
+ delay(2000);
+}
+ 
+void loop()
+{
+ measure_distance();
+
+ Serial.print("Distance: ");
+ Serial.println(distance);
+ if(distance<10)
+ {
+   Serial.print("Distance < 10 ");
+   digitalWrite(LED,HIGH);
+   digitalWrite(MOSFET,HIGH);
+   digitalWrite(ledPin, HIGH);
+ }
+ else
+ {
+   Serial.print("Distance > 10 ");
+   digitalWrite(LED,LOW);
+   digitalWrite(MOSFET,LOW);
+ }
+
+ delay(500);
+}
+
+void measure_distance()
+{
+ digitalWrite(trigger,LOW);
+ delayMicroseconds(2);
+ digitalWrite(trigger,HIGH);
+ delayMicroseconds(10);
+ digitalWrite(trigger,LOW);
+ delayMicroseconds(2);
+ time=pulseIn(echo,HIGH);
+ 
+ distance=time*340/20000;
+}
