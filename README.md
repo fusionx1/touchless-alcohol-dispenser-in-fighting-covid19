@@ -37,7 +37,12 @@ See https://www.youtube.com/watch?v=FzAPq4TT3q4!
 
    [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/fritzing.png)](#)
    
-   
+### Using Tennis Canister as container
+
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/tennis-canister1.jpg)](#)
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/tennis-canister2.jpg)](#)
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/tennis-canister3.jpg)](#)
+
 ### Housing
 
 For housing you can use wood, cardboard, pvc board, sintra board each of this has pros and cons.
