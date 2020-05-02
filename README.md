@@ -35,7 +35,7 @@ See https://www.youtube.com/watch?v=FzAPq4TT3q4!
     git clone https://github.com/fusionx1/touchless-alcohol-dispenser-in-fighting-covid19.git
     ```
 
-   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/schematics.png)](#)
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/fretzing.png)](#)
    
    
 ### Housing
