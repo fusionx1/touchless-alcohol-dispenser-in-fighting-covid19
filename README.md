@@ -44,5 +44,11 @@ For housing you can use wood, cardboard, pvc board, sintra board each of this ha
    [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/pvc-board1.jpg)](#)
    [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/pvc-board2.jpg)](#)
       
+3. Wood
+
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/wood1.jpg)](#)
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/wood2.jpg)](#)
+   [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/wood3.jpg)](#)
+      
 
 
