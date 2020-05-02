@@ -1,12 +1,8 @@
 ## Touchless Alcohol Dispenser To Fight Covid-19
 
-[![Touchless Alcohol Dispenser](https://i9.ytimg.com/vi/FzAPq4TT3q4/mq2.jpg)](https://www.youtube.com/watch?v=FzAPq4TT3q4 "Touchless Alcohol Dispenser To Fight Covid-19")
-
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![Touchless Alcohol Dispenser](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa2.jpg)](https://www.youtube.com/watch?v=FzAPq4TT3q4 "Touchless Alcohol Dispenser To Fight Covid-19")
 
 [![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa1.jpg)](#)
-
-[![Screenshot](http://dev-mapinas.pantheonsite.io/sites/default/files/protoa2.jpg)](#)
 
 Its been 45 days since lockdown in most countries in the world because of Covid-19 former name nCov, nowadays the new norm is that eveybody is bringing their own alcohol sanitizers and wearing mask when outside. You can see in every apartments/condominium lobbies, grocery stores and offices are having alchol based sanitizers right before you enter the primises that you need to pump it using your hands and some people they dont bother using it because of fear that the last person who used it might be infected. So ive come up with the touchless alcohol dispenser that uses ultrasonic sensor that triggers water pump to flow the  
 
